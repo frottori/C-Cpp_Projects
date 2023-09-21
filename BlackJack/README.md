@@ -18,102 +18,67 @@
 
 ### Παράδειγμα\_1: 
 
-First card of dealer is 7 First card of player is 1 Second card of player is 'J' Player gets 21. Player wins! 
+First card of dealer is 7 
+First card of player is 1 
+Second card of player is 'J' 
+Player gets 21. 
+Player wins! 
 
 ### Παράδειγμα\_2: 
 
 First card of dealer is 2 
-
 First card of player is 9 
-
 Second card of player is 8 
-
 Hand\_1: Do you want to draw another card (1:for yes)? 1 Player draw 'K' 
-
 Player has total 27 
-
 Player lost! 
 
 ### Παράδειγμα\_3: 
 
 First card of dealer is 10 
-
 First card of player is 'Q' 
-
 Second card of player is 9 
-
 Hand\_1: Do you want to draw another card (1:for yes)? 0 Dealer draw 9 
-
 Dealer has total 19 
-
 Hand\_1: Nobody wins!
 
 ### Παράδειγμα\_4: 
 
 First card of dealer is 7 
-
 First card of player is 3 
-
 Second card of player is 1 
-
 Hand\_1: Do you want to draw another card (1:for yes)? 1 Player draw 7 
-
 Player has total 11 
-
 Hand\_1: Do you want to draw another card (1:for yes)? 1 Player draw 'Q' 
-
 Player has total 21 
-
 Dealer draw 'K' 
-
 Dealer has total 17 
-
 Hand\_1: Player wins! 
 
 ### Παράδειγμα\_5: 
 
 First card of dealer is 5 
-
 First card of player is 'J' 
-
 Second card of player is 4 
-
 Hand\_1: Do you want to draw another card (1:for yes)? 0 Dealer draw 10 
-
 Dealer has total 15 
-
 Dealer draw 'K' 
-
 Dealer has total 25 
-
 Player wins! 
 
 ### Παράδειγμα\_6: 
 
 First card of dealer is 8 
-
 First card of player is 'J' 
-
 Second card of player is 'J' 
-
 Split the cards (1:for yes)? 1 
-
 Hand\_1: Do you want to draw another card (1:for yes)? 1 Player draw 'K' 
-
 Player has total 20 
-
 Hand\_1: Do you want to draw another card (1:for yes)? 0 Hand\_2: Do you want to draw another card (1:for yes)? 1 Player draw 9 
-
 Player has total 19 
-
 Hand\_2: Do you want to draw another card (1:for yes)? 0 Dealer draw 7 
-
 Dealer has total 15 
-
 Dealer draw 2 
-
 Dealer has total 17 
-
 Hand\_1: Player wins! 
-
 Hand\_2: Player wins! 
