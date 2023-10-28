@@ -22,7 +22,8 @@
 ## Setup *compilers* and *libraries* for WSL
 ### Open bash Terminal on WSL and type the following commands :
 - Setup : <br>
-`sudo apt-get update && sudo apt-get upgrade -y`
+`sudo apt-get update` <br>
+`sudo apt-get upgrade`
 
 - C : <br>
  `sudo apt-get install gcc`
