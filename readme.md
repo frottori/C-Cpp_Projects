@@ -17,7 +17,7 @@
 
 - To open bash Terminal on Windows type in Windows Terminal: <br>
  `ubuntu`
-- /mnt/c (Ubuntu) == c:\Users (Windows)
+- /mnt/c/Users (Ubuntu) == c:\Users (Windows)
 
 ## Setup *compilers* and *libraries* for WSL
 ### Open bash Terminal on WSL and type the following commands :
