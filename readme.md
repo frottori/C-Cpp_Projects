@@ -15,19 +15,19 @@
  `New WSL Window`
 
 ## Setup compilers and libraries for Ubuntu subsystem
-- C :
+- C : <br>
  `sudo apt-get install gcc`
 
-- Java :
+- Java : <br>
  `sudo apt-get install openjdk-6-jre`
 
-- Cpp :
+- Cpp : <br>
  `sudo apt install gcc g++ clang gdb`
 
-- Ncurses :
+- Ncurses : <br>
  `sudo apt-get install libncurses5-dev libncursesw5-dev`
  
-- MPI :
+- MPI : <br>
  `sudo apt install mpicc`
 
 ## To open bash Terminal on Windows type
