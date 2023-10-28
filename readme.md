@@ -15,7 +15,7 @@
  `Cntrl + Shift + P` <br>
  `New WSL Window`
 
-- To open bash Terminal on Windows type : <br>
+- To open bash Terminal on Windows type in Windows Terminal: <br>
  `ubuntu`
 - /mnt/c (Ubuntu) == c:\Users (Windows)
 
