@@ -20,6 +20,7 @@
 - /mnt/c (Ubuntu) == c:\Users (Windows)
 
 ## Setup compilers and libraries for Ubuntu subsystem
+### Open *bash Terminal* on WSL and type the following commands :
 - C : <br>
  `sudo apt-get install gcc`
 
