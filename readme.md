@@ -8,7 +8,7 @@
 
 - Setup username, password for Ubuntu Subsystem
 
-- In Visual Studio Code download :
+- In Visual Studio Code download : <br>
   `WSL Extension`
 
 - To open VsCode in WSL : <br>
