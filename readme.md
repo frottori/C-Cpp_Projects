@@ -4,11 +4,12 @@
 
   `wsl --install`
 
-- Restart pc
+- Restart PC
 
-- Setup username,password for ubuntu subsystem
+- Setup username, password for Ubuntu Subsystem
 
-- In Visual Studio Code download WSL Extension
+- In Visual Studio Code download :
+  `WSL Extension`
 
 - To open VsCode in WSL : <br>
  `Cntrl + Shift + P` <br>
