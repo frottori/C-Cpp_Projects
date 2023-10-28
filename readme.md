@@ -2,7 +2,7 @@
 
 - Type in Terminal :
 
- `wsl --install`
+  `wsl --install`
 
 - Restart pc
 
@@ -11,7 +11,7 @@
 - In Visual Studio Code download WSL Extension
 
 - To open VsCode in WSL :
- `Cntrl + Shift + P`
+ `Cntrl + Shift + P` <br>
  `New WSL Window`
 
 ## Setup compilers and libraries for Ubuntu subsystem
@@ -26,7 +26,10 @@
 
 - Ncurses :
  `sudo apt-get install libncurses5-dev libncursesw5-dev`
+ 
+- MPI :
+ `sudo apt install mpicc`
 
-# To open bash Terminal on Windows type
+## To open bash Terminal on Windows type
  `ubuntu`
 - /mnt/c (Ubuntu) == c:\Users (Windows)
