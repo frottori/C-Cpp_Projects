@@ -1,6 +1,6 @@
 # Windows Subsystem for Linux (WSL)
 
-- Type in Terminal :
+- Type in Windows Terminal :
 
   `wsl --install`
 
