@@ -10,7 +10,7 @@
 
 - In Visual Studio Code download WSL Extension
 
-- To open VsCode in WSL :
+- To open VsCode in WSL : <br>
  `Cntrl + Shift + P` <br>
  `New WSL Window`
 
