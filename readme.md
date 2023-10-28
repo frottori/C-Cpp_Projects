@@ -11,7 +11,7 @@
 - In Visual Studio Code download : <br>
   `WSL Extension`
 
-- To open VsCode in WSL : <br>
+- To open WSL in VSCode : <br>
  `Cntrl + Shift + P` <br>
  `New WSL Window`
 
