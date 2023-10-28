@@ -15,6 +15,10 @@
  `Cntrl + Shift + P` <br>
  `New WSL Window`
 
+- To open bash Terminal on Windows type : <br>
+ `ubuntu`
+- /mnt/c (Ubuntu) == c:\Users (Windows)
+
 ## Setup compilers and libraries for Ubuntu subsystem
 - C : <br>
  `sudo apt-get install gcc`
@@ -30,7 +34,3 @@
  
 - MPI : <br>
  `sudo apt install mpicc`
-
-- To open bash Terminal on Windows type : <br>
- `ubuntu`
-- /mnt/c (Ubuntu) == c:\Users (Windows)
