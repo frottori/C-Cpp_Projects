@@ -31,6 +31,6 @@
 - MPI : <br>
  `sudo apt install mpicc`
 
-## To open bash Terminal on Windows type
+- To open bash Terminal on Windows type : <br>
  `ubuntu`
 - /mnt/c (Ubuntu) == c:\Users (Windows)
