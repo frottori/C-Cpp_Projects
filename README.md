@@ -1,6 +1,8 @@
 # C_Projects
 - Pointers, Dynamic Allocation
-- Threads
-- Semaphores
+- Posix 
+ - Threads
+ - Semaphores
+ - Condition variable
 - Sockets 
 - MPI Parrallel Environment
