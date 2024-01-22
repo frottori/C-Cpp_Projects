@@ -1,2 +1,6 @@
 # C_Projects
-All of my undergraduate Projects in the C Programming language
+- Pointers, Dynamic Allocation
+- Threads
+- Semaphores
+- Sockets 
+- MPI Parrallel Environment
